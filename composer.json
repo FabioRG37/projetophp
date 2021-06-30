@@ -1,0 +1,16 @@
+{
+    "name": "vanes/projetophp",
+    "description": "Projeto da disciplina Eletiva I - PHP",
+    "authors": [
+        {
+            "name": "vanessaborges2",
+            "email": "vanessa.borges2@fatec.sp.gov.br"
+        }
+    ],
+	"autoload": {
+		"psr-4":{
+			"App\\": "src"
+		}
+	},
+    "require": {}
+}
